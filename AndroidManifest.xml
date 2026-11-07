@@ -109,7 +109,7 @@
         <service
             android:name=".pods.PodsService"
             android:enabled="true"
-            android:exported="true" />
+            android:exported="false" />
 
         <receiver
             android:name=".StartupReceiver"
